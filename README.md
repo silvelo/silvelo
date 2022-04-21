@@ -1,5 +1,5 @@
 
-![Banner](./banner.jpg?raw=true "Banner")
+![Banner](./banner.png?raw=true "Banner")
 
 ### Hi there 👋
 
