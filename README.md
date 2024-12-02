@@ -66,6 +66,7 @@ A collection of courses I've taught, covering various topics in technology and d
 ## 👀 Let's Connect!
 
 Feel free to reach out to me for collaboration, questions, or just a friendly chat about tech!  
-[Contact me via email](mailto:arturo.silvelo@gmail.com).
+[![Contact me via email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturo.silvelo@gmail.com)
+[![Contact me via telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/silvelo).
 
 ![Silvelo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvelo&layout=compact&langs_count=8&hide_border=true)
